@@ -1,0 +1,23 @@
+# Visual Studio
+.vs/
+
+# Build folders
+bin/
+obj/
+
+# Visual Studio user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Debug files
+*.pdb
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
